@@ -8,6 +8,8 @@ from django.views.generic.list import ListView
 from django.views.generic.detail import DetailView
 from django.contrib.auth.decorators import login_required
 
+#this is a comment
+
 #forms
 from main.forms import CitySearchFrom, CreateCityForm, CityEditForm
 
